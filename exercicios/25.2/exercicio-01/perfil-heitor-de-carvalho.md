@@ -9,4 +9,4 @@
 
 ## Uma curiosidade sobre você
 - Fui dispensado pelo exército por ser baixo demais
-- Shinyhunter aposentado
+- Sou shinyhunter aposentado
