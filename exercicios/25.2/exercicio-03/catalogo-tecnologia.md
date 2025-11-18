@@ -36,6 +36,7 @@
 - JavaScript - exemplo
 - PHP (orientada à objetos) - @RiosGabri
 - Go - @phpedruo
+- Java - @bielmalta 
 - C# - @arthurdalmeida
 - Cobol - @doctahW
 - C++ - @Parlatore (Carraly)
